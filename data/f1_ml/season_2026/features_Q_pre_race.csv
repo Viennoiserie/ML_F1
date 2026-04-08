@@ -1,0 +1,64 @@
+DriverNumber,Q_best_lap_s,Q_best_s1_s,Q_best_s2_s,Q_best_s3_s,Q_quicklaps,Abbreviation,BroadcastName,FullName,TeamName,Q_top_speed_kmh,Season,Round,EventName
+1,79.475,27.754,17.568,34.077,7,NOR,L NORRIS,Lando Norris,McLaren,323.0,2026,1,Australian Grand Prix
+10,80.501,28.283,17.557,34.605,5,GAS,P GASLY,Pierre Gasly,Alpine,325.0,2026,1,Australian Grand Prix
+11,82.605,29.138,17.819,35.648,2,PER,S PEREZ,Sergio Perez,Cadillac,321.0,2026,1,Australian Grand Prix
+12,78.811,27.556,17.44,33.815,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,327.0,2026,1,Australian Grand Prix
+14,81.969,28.797,18.047,35.125,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,316.0,2026,1,Australian Grand Prix
+16,79.327,27.679,17.505,34.061,7,LEC,C LECLERC,Charles Leclerc,Ferrari,322.0,2026,1,Australian Grand Prix
+23,80.941,28.292,17.67,34.909,6,ALB,A ALBON,Alexander Albon,Williams,323.0,2026,1,Australian Grand Prix
+27,80.303,28.577,17.405,34.311,6,HUL,N HULKENBERG,Nico Hulkenberg,Audi,331.0,2026,1,Australian Grand Prix
+30,79.994,28.198,17.36,34.352,6,LAW,L LAWSON,Liam Lawson,Racing Bulls,329.0,2026,1,Australian Grand Prix
+31,80.491,28.499,17.469,34.489,6,OCO,E OCON,Esteban Ocon,Haas F1 Team,326.0,2026,1,Australian Grand Prix
+41,79.971,28.023,17.312,34.418,7,LIN,A LINDBLAD,Arvid Lindblad,Racing Bulls,333.0,2026,1,Australian Grand Prix
+43,81.2,28.489,17.621,34.874,5,COL,F COLAPINTO,Franco Colapinto,Alpine,325.0,2026,1,Australian Grand Prix
+44,79.478,27.756,17.57,34.152,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,323.0,2026,1,Australian Grand Prix
+5,80.221,28.263,17.418,34.531,4,BOR,G BORTOLETO,Gabriel Bortoleto,Audi,329.0,2026,1,Australian Grand Prix
+6,79.303,27.747,17.453,34.036,6,HAD,I HADJAR,Isack Hadjar,Red Bull Racing,327.0,2026,1,Australian Grand Prix
+63,78.518,27.498,17.284,33.736,6,RUS,G RUSSELL,George Russell,Mercedes,328.0,2026,1,Australian Grand Prix
+77,83.244,29.198,17.949,35.978,2,BOT,V BOTTAS,Valtteri Bottas,Cadillac,321.0,2026,1,Australian Grand Prix
+81,79.38,27.737,17.537,33.988,7,PIA,O PIASTRI,Oscar Piastri,McLaren,324.0,2026,1,Australian Grand Prix
+87,80.311,28.492,17.407,34.38,6,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,328.0,2026,1,Australian Grand Prix
+1,92.608,23.995,27.747,40.748,7,NOR,L NORRIS,Lando Norris,McLaren,336.0,2026,2,Chinese Grand Prix
+10,92.873,24.099,27.788,40.9,7,GAS,P GASLY,Pierre Gasly,Alpine,340.0,2026,2,Chinese Grand Prix
+11,96.906,25.703,29.246,41.611,2,PER,S PEREZ,Sergio Perez,Cadillac,334.0,2026,2,Chinese Grand Prix
+12,92.064,24.003,27.664,40.387,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,334.0,2026,2,Chinese Grand Prix
+14,95.203,24.782,28.723,41.698,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,328.0,2026,2,Chinese Grand Prix
+16,92.428,24.022,27.66,40.65,6,LEC,C LECLERC,Charles Leclerc,Ferrari,337.0,2026,2,Chinese Grand Prix
+18,95.995,24.953,29.144,41.838,3,STR,L STROLL,Lance Stroll,Aston Martin,324.0,2026,2,Chinese Grand Prix
+23,94.772,24.526,28.694,41.37,3,ALB,A ALBON,Alexander Albon,Williams,339.0,2026,2,Chinese Grand Prix
+27,93.354,24.558,27.937,40.743,4,HUL,N HULKENBERG,Nico Hulkenberg,Audi,336.0,2026,2,Chinese Grand Prix
+3,93.002,24.28,27.975,40.613,7,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,337.0,2026,2,Chinese Grand Prix
+30,93.765,24.339,28.117,40.911,5,LAW,L LAWSON,Liam Lawson,Racing Bulls,337.0,2026,2,Chinese Grand Prix
+31,93.538,24.335,28.041,41.028,5,OCO,E OCON,Esteban Ocon,Haas F1 Team,333.0,2026,2,Chinese Grand Prix
+41,93.784,24.492,28.254,40.903,4,LIN,A LINDBLAD,Arvid Lindblad,Racing Bulls,337.0,2026,2,Chinese Grand Prix
+43,93.357,24.254,28.078,40.947,5,COL,F COLAPINTO,Franco Colapinto,Alpine,343.0,2026,2,Chinese Grand Prix
+44,92.415,24.08,27.696,40.535,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,335.0,2026,2,Chinese Grand Prix
+5,93.549,24.539,28.214,40.796,4,BOR,G BORTOLETO,Gabriel Bortoleto,Audi,339.0,2026,2,Chinese Grand Prix
+55,94.317,24.465,28.669,41.183,3,SAI,C SAINZ,Carlos Sainz,Williams,338.0,2026,2,Chinese Grand Prix
+6,93.121,24.465,27.933,40.659,7,HAD,I HADJAR,Isack Hadjar,Red Bull Racing,338.0,2026,2,Chinese Grand Prix
+63,92.286,24.012,27.783,40.491,3,RUS,G RUSSELL,George Russell,Mercedes,341.0,2026,2,Chinese Grand Prix
+77,95.436,24.949,28.972,41.515,3,BOT,V BOTTAS,Valtteri Bottas,Cadillac,335.0,2026,2,Chinese Grand Prix
+81,92.55,24.12,27.729,40.493,7,PIA,O PIASTRI,Oscar Piastri,McLaren,336.0,2026,2,Chinese Grand Prix
+87,93.197,24.348,27.847,40.931,6,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,334.0,2026,2,Chinese Grand Prix
+1,89.409,32.049,39.716,17.627,7,NOR,L NORRIS,Lando Norris,McLaren,326.0,2026,3,Japanese Grand Prix
+10,89.691,32.143,40.029,17.519,6,GAS,P GASLY,Pierre Gasly,Alpine,333.0,2026,3,Japanese Grand Prix
+11,92.206,33.512,40.667,18.027,2,PER,S PEREZ,Sergio Perez,Cadillac,329.0,2026,3,Japanese Grand Prix
+12,88.778,31.827,39.398,17.464,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,329.0,2026,3,Japanese Grand Prix
+14,92.646,33.536,41.206,17.904,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,329.0,2026,3,Japanese Grand Prix
+16,89.303,31.655,39.855,17.668,6,LEC,C LECLERC,Charles Leclerc,Ferrari,330.0,2026,3,Japanese Grand Prix
+18,92.92,33.595,41.341,17.948,3,STR,L STROLL,Lance Stroll,Aston Martin,316.0,2026,3,Japanese Grand Prix
+23,91.088,32.858,40.489,17.741,3,ALB,A ALBON,Alexander Albon,Williams,333.0,2026,3,Japanese Grand Prix
+27,90.358,32.4,40.181,17.564,5,HUL,N HULKENBERG,Nico Hulkenberg,Audi,333.0,2026,3,Japanese Grand Prix
+3,90.262,32.369,40.196,17.565,4,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,337.0,2026,3,Japanese Grand Prix
+30,90.495,32.791,40.175,17.529,5,LAW,L LAWSON,Liam Lawson,Racing Bulls,336.0,2026,3,Japanese Grand Prix
+31,90.309,32.481,40.048,17.7,5,OCO,E OCON,Esteban Ocon,Haas F1 Team,326.0,2026,3,Japanese Grand Prix
+41,90.109,32.548,40.043,17.501,7,LIN,A LINDBLAD,Arvid Lindblad,Racing Bulls,339.0,2026,3,Japanese Grand Prix
+43,90.627,32.463,40.433,17.61,4,COL,F COLAPINTO,Franco Colapinto,Alpine,333.0,2026,3,Japanese Grand Prix
+44,89.567,31.762,39.933,17.625,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,331.0,2026,3,Japanese Grand Prix
+5,89.99,32.288,40.149,17.492,7,BOR,G BORTOLETO,Gabriel Bortoleto,Audi,335.0,2026,3,Japanese Grand Prix
+55,90.927,32.844,40.434,17.576,5,SAI,C SAINZ,Carlos Sainz,Williams,338.0,2026,3,Japanese Grand Prix
+6,89.978,32.164,40.094,17.608,5,HAD,I HADJAR,Isack Hadjar,Red Bull Racing,338.0,2026,3,Japanese Grand Prix
+63,89.076,31.782,39.607,17.616,7,RUS,G RUSSELL,George Russell,Mercedes,330.0,2026,3,Japanese Grand Prix
+77,92.33,33.362,40.961,17.947,3,BOT,V BOTTAS,Valtteri Bottas,Cadillac,332.0,2026,3,Japanese Grand Prix
+81,89.132,31.954,39.557,17.577,7,PIA,O PIASTRI,Oscar Piastri,McLaren,328.0,2026,3,Japanese Grand Prix
+87,91.09,32.824,40.421,17.845,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,327.0,2026,3,Japanese Grand Prix
