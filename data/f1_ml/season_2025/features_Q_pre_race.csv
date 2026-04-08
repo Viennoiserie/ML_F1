@@ -1,0 +1,471 @@
+DriverNumber,Q_best_lap_s,Q_best_s1_s,Q_best_s2_s,Q_best_s3_s,Q_quicklaps,Abbreviation,BroadcastName,FullName,TeamName,Q_top_speed_kmh,Season,Round,EventName
+1,75.481,26.055,16.915,32.421,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,334.0,2025,1,Australian Grand Prix
+10,75.98,26.293,17.051,32.56,7,GAS,P GASLY,Pierre Gasly,Alpine,332.0,2025,1,Australian Grand Prix
+12,76.525,26.443,17.166,32.754,3,ANT,A ANTONELLI,Andrea Kimi Antonelli,Mercedes,329.0,2025,1,Australian Grand Prix
+14,76.288,26.3,17.107,32.747,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,332.0,2025,1,Australian Grand Prix
+16,75.755,26.184,17.025,32.466,5,LEC,C LECLERC,Charles Leclerc,Ferrari,330.0,2025,1,Australian Grand Prix
+18,76.369,26.364,17.151,32.744,5,STR,L STROLL,Lance Stroll,Aston Martin,331.0,2025,1,Australian Grand Prix
+22,75.67,26.19,17.005,32.475,6,TSU,Y TSUNODA,Yuki Tsunoda,Racing Bulls,333.0,2025,1,Australian Grand Prix
+23,75.737,26.186,16.978,32.513,7,ALB,A ALBON,Alexander Albon,Williams,332.0,2025,1,Australian Grand Prix
+27,76.579,26.605,17.201,32.722,2,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,332.0,2025,1,Australian Grand Prix
+30,77.094,26.819,17.362,32.913,1,LAW,L LAWSON,Liam Lawson,Red Bull Racing,334.0,2025,1,Australian Grand Prix
+31,77.147,26.678,17.206,33.114,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,331.0,2025,1,Australian Grand Prix
+4,75.096,25.961,16.997,32.138,6,NOR,L NORRIS,Lando Norris,McLaren,330.0,2025,1,Australian Grand Prix
+44,75.919,26.15,17.08,32.263,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,333.0,2025,1,Australian Grand Prix
+5,76.516,26.423,17.22,32.801,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,331.0,2025,1,Australian Grand Prix
+55,75.931,26.269,17.0,32.584,7,SAI,C SAINZ,Carlos Sainz,Williams,332.0,2025,1,Australian Grand Prix
+6,76.175,26.345,17.139,32.682,4,HAD,I HADJAR,Isack Hadjar,Racing Bulls,333.0,2025,1,Australian Grand Prix
+63,75.546,26.104,16.951,32.297,6,RUS,G RUSSELL,George Russell,Mercedes,339.0,2025,1,Australian Grand Prix
+7,76.315,26.27,17.15,32.784,5,DOO,J DOOHAN,Jack Doohan,Alpine,332.0,2025,1,Australian Grand Prix
+81,75.18,26.082,16.952,32.146,5,PIA,O PIASTRI,Oscar Piastri,McLaren,329.0,2025,1,Australian Grand Prix
+1,90.817,23.945,27.238,39.523,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,339.0,2025,2,Chinese Grand Prix
+10,91.992,24.128,27.601,40.029,3,GAS,P GASLY,Pierre Gasly,Alpine,332.0,2025,2,Chinese Grand Prix
+12,91.103,24.176,27.301,39.626,7,ANT,K ANTONELLI,Andrea Kimi Antonelli,Mercedes,336.0,2025,2,Chinese Grand Prix
+14,91.688,24.067,27.539,39.866,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,333.0,2025,2,Chinese Grand Prix
+16,91.021,24.094,27.32,39.572,7,LEC,C LECLERC,Charles Leclerc,Ferrari,337.0,2025,2,Chinese Grand Prix
+18,91.773,24.133,27.391,40.039,5,STR,L STROLL,Lance Stroll,Aston Martin,334.0,2025,2,Chinese Grand Prix
+22,91.238,24.171,27.203,39.759,5,TSU,Y TSUNODA,Yuki Tsunoda,Racing Bulls,336.0,2025,2,Chinese Grand Prix
+23,91.503,24.17,27.477,39.789,6,ALB,A ALBON,Alexander Albon,Williams,332.0,2025,2,Chinese Grand Prix
+27,91.632,24.08,27.481,39.895,5,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,339.0,2025,2,Chinese Grand Prix
+30,92.174,24.522,27.622,40.03,2,LAW,L LAWSON,Liam Lawson,Red Bull Racing,336.0,2025,2,Chinese Grand Prix
+31,91.625,24.244,27.489,39.89,5,OCO,E OCON,Esteban Ocon,Haas F1 Team,331.0,2025,2,Chinese Grand Prix
+4,90.787,23.954,27.257,39.435,5,NOR,L NORRIS,Lando Norris,McLaren,334.0,2025,2,Chinese Grand Prix
+44,90.927,24.07,27.175,39.604,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,336.0,2025,2,Chinese Grand Prix
+5,92.141,24.318,27.517,40.071,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,337.0,2025,2,Chinese Grand Prix
+55,91.628,24.231,27.48,39.859,5,SAI,C SAINZ,Carlos Sainz,Williams,334.0,2025,2,Chinese Grand Prix
+6,91.079,24.127,27.213,39.66,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,335.0,2025,2,Chinese Grand Prix
+63,90.723,24.068,27.221,39.434,7,RUS,G RUSSELL,George Russell,Mercedes,339.0,2025,2,Chinese Grand Prix
+7,92.092,24.407,27.652,40.03,2,DOO,J DOOHAN,Jack Doohan,Alpine,333.0,2025,2,Chinese Grand Prix
+81,90.641,23.984,27.163,39.418,6,PIA,O PIASTRI,Oscar Piastri,McLaren,332.0,2025,2,Chinese Grand Prix
+87,92.018,24.427,27.599,39.992,2,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,332.0,2025,2,Chinese Grand Prix
+1,86.983,30.387,39.355,17.241,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,325.0,2025,3,Japanese Grand Prix
+10,87.822,30.593,39.84,17.389,4,GAS,P GASLY,Pierre Gasly,Alpine,324.0,2025,3,Japanese Grand Prix
+12,87.555,30.669,39.503,17.295,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,325.0,2025,3,Japanese Grand Prix
+14,87.897,30.633,39.705,17.559,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,324.0,2025,3,Japanese Grand Prix
+16,87.299,30.535,39.352,17.292,7,LEC,C LECLERC,Charles Leclerc,Ferrari,326.0,2025,3,Japanese Grand Prix
+18,89.271,31.034,40.483,17.754,1,STR,L STROLL,Lance Stroll,Aston Martin,323.0,2025,3,Japanese Grand Prix
+22,87.967,30.707,39.672,17.449,4,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,321.0,2025,3,Japanese Grand Prix
+23,87.615,30.604,39.581,17.399,6,ALB,A ALBON,Alexander Albon,Williams,326.0,2025,3,Japanese Grand Prix
+27,88.57,31.082,39.984,17.504,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,324.0,2025,3,Japanese Grand Prix
+30,87.906,30.879,39.634,17.393,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,323.0,2025,3,Japanese Grand Prix
+31,88.696,31.012,40.137,17.518,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,323.0,2025,3,Japanese Grand Prix
+4,86.995,30.358,39.301,17.307,5,NOR,L NORRIS,Lando Norris,McLaren,322.0,2025,3,Japanese Grand Prix
+44,87.61,30.506,39.454,17.406,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,325.0,2025,3,Japanese Grand Prix
+5,88.622,30.974,40.0,17.542,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,328.0,2025,3,Japanese Grand Prix
+55,87.836,30.76,39.579,17.408,5,SAI,C SAINZ,Carlos Sainz,Williams,324.0,2025,3,Japanese Grand Prix
+6,87.569,30.663,39.471,17.401,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,324.0,2025,3,Japanese Grand Prix
+63,87.318,30.376,39.56,17.281,5,RUS,G RUSSELL,George Russell,Mercedes,326.0,2025,3,Japanese Grand Prix
+7,88.877,30.949,40.186,17.608,3,DOO,J DOOHAN,Jack Doohan,Alpine,325.0,2025,3,Japanese Grand Prix
+81,87.027,30.514,39.197,17.205,6,PIA,O PIASTRI,Oscar Piastri,McLaren,321.0,2025,3,Japanese Grand Prix
+87,87.711,30.646,39.639,17.403,7,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,323.0,2025,3,Japanese Grand Prix
+1,90.423,28.88,38.855,22.688,4,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,321.0,2025,4,Bahrain Grand Prix
+10,90.216,28.883,38.694,22.639,6,GAS,P GASLY,Pierre Gasly,Alpine,321.0,2025,4,Bahrain Grand Prix
+12,90.213,28.836,38.786,22.561,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,318.0,2025,4,Bahrain Grand Prix
+14,91.634,29.231,39.502,22.901,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,320.0,2025,4,Bahrain Grand Prix
+16,90.175,28.926,38.714,22.535,5,LEC,C LECLERC,Charles Leclerc,Ferrari,328.0,2025,4,Bahrain Grand Prix
+18,92.283,29.282,39.858,23.106,3,STR,L STROLL,Lance Stroll,Aston Martin,318.0,2025,4,Bahrain Grand Prix
+22,91.228,29.026,39.177,22.9,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,316.0,2025,4,Bahrain Grand Prix
+23,92.04,29.227,39.757,23.037,2,ALB,A ALBON,Alexander Albon,Williams,323.0,2025,4,Bahrain Grand Prix
+27,91.693,29.039,39.479,22.846,5,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,327.0,2025,4,Bahrain Grand Prix
+30,92.165,29.327,39.808,22.958,2,LAW,L LAWSON,Liam Lawson,Racing Bulls,318.0,2025,4,Bahrain Grand Prix
+31,91.594,29.154,39.527,22.904,2,OCO,E OCON,Esteban Ocon,Haas F1 Team,321.0,2025,4,Bahrain Grand Prix
+4,90.267,28.8,38.678,22.582,5,NOR,L NORRIS,Lando Norris,McLaren,319.0,2025,4,Bahrain Grand Prix
+44,90.772,28.955,39.058,22.759,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,324.0,2025,4,Bahrain Grand Prix
+5,92.186,29.52,39.608,23.001,2,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,322.0,2025,4,Bahrain Grand Prix
+55,90.68,28.894,38.929,22.723,6,SAI,C SAINZ,Carlos Sainz,Williams,318.0,2025,4,Bahrain Grand Prix
+6,91.271,29.081,39.267,22.851,3,HAD,I HADJAR,Isack Hadjar,Racing Bulls,323.0,2025,4,Bahrain Grand Prix
+63,90.009,28.771,38.71,22.528,6,RUS,G RUSSELL,George Russell,Mercedes,320.0,2025,4,Bahrain Grand Prix
+7,91.245,29.094,39.215,22.752,4,DOO,J DOOHAN,Jack Doohan,Alpine,320.0,2025,4,Bahrain Grand Prix
+81,89.841,28.784,38.574,22.483,4,PIA,O PIASTRI,Oscar Piastri,McLaren,320.0,2025,4,Bahrain Grand Prix
+87,92.373,29.319,39.796,22.965,2,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,315.0,2025,4,Bahrain Grand Prix
+1,87.294,31.507,27.714,28.016,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,338.0,2025,5,Saudi Arabian Grand Prix
+10,88.025,32.136,27.816,28.073,6,GAS,P GASLY,Pierre Gasly,Alpine,337.0,2025,5,Saudi Arabian Grand Prix
+12,87.798,31.92,27.682,28.02,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,333.0,2025,5,Saudi Arabian Grand Prix
+14,88.303,32.021,27.852,28.43,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,336.0,2025,5,Saudi Arabian Grand Prix
+16,87.67,31.857,27.753,28.017,5,LEC,C LECLERC,Charles Leclerc,Ferrari,338.0,2025,5,Saudi Arabian Grand Prix
+18,88.645,32.072,28.054,28.478,3,STR,L STROLL,Lance Stroll,Aston Martin,335.0,2025,5,Saudi Arabian Grand Prix
+22,87.99,31.918,27.83,28.192,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,337.0,2025,5,Saudi Arabian Grand Prix
+23,88.109,31.901,27.806,28.309,5,ALB,A ALBON,Alexander Albon,Williams,335.0,2025,5,Saudi Arabian Grand Prix
+27,88.782,32.477,27.968,28.323,2,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,340.0,2025,5,Saudi Arabian Grand Prix
+30,88.191,32.087,27.89,28.214,3,LAW,L LAWSON,Liam Lawson,Racing Bulls,332.0,2025,5,Saudi Arabian Grand Prix
+31,89.092,32.718,28.042,28.332,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,334.0,2025,5,Saudi Arabian Grand Prix
+4,87.481,31.745,27.684,28.052,3,NOR,L NORRIS,Lando Norris,McLaren,334.0,2025,5,Saudi Arabian Grand Prix
+44,88.102,31.972,27.833,28.193,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,338.0,2025,5,Saudi Arabian Grand Prix
+5,89.462,32.653,28.129,28.455,2,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,343.0,2025,5,Saudi Arabian Grand Prix
+55,88.024,32.047,27.822,28.14,7,SAI,C SAINZ,Carlos Sainz,Williams,335.0,2025,5,Saudi Arabian Grand Prix
+6,88.418,32.209,27.885,28.322,4,HAD,I HADJAR,Isack Hadjar,Racing Bulls,334.0,2025,5,Saudi Arabian Grand Prix
+63,87.407,31.684,27.577,28.101,4,RUS,G RUSSELL,George Russell,Mercedes,336.0,2025,5,Saudi Arabian Grand Prix
+7,88.739,32.223,28.097,28.373,3,DOO,J DOOHAN,Jack Doohan,Alpine,336.0,2025,5,Saudi Arabian Grand Prix
+81,87.304,31.63,27.624,27.989,6,PIA,O PIASTRI,Oscar Piastri,McLaren,334.0,2025,5,Saudi Arabian Grand Prix
+87,88.536,32.489,27.817,28.218,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,335.0,2025,5,Saudi Arabian Grand Prix
+1,86.204,28.246,33.079,24.879,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,341.0,2025,6,Miami Grand Prix
+10,87.71,28.962,33.714,25.034,3,GAS,P GASLY,Pierre Gasly,Alpine,337.0,2025,6,Miami Grand Prix
+12,86.271,28.484,32.983,24.804,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,341.0,2025,6,Miami Grand Prix
+14,87.604,28.851,33.868,24.885,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,339.0,2025,6,Miami Grand Prix
+16,86.754,28.668,33.283,24.726,6,LEC,C LECLERC,Charles Leclerc,Ferrari,344.0,2025,6,Miami Grand Prix
+18,87.83,29.106,33.837,24.887,3,STR,L STROLL,Lance Stroll,Aston Martin,341.0,2025,6,Miami Grand Prix
+22,86.943,28.551,33.318,24.982,7,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,340.0,2025,6,Miami Grand Prix
+23,86.682,28.633,33.225,24.788,6,ALB,A ALBON,Alexander Albon,Williams,340.0,2025,6,Miami Grand Prix
+27,87.473,28.781,33.484,24.945,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,343.0,2025,6,Miami Grand Prix
+30,87.363,28.748,33.557,24.951,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,338.0,2025,6,Miami Grand Prix
+31,86.824,28.69,33.136,24.858,7,OCO,E OCON,Esteban Ocon,Haas F1 Team,339.0,2025,6,Miami Grand Prix
+4,86.269,28.337,32.901,24.778,7,NOR,L NORRIS,Lando Norris,McLaren,340.0,2025,6,Miami Grand Prix
+44,87.006,28.734,33.302,24.945,5,HAM,L HAMILTON,Lewis Hamilton,Ferrari,343.0,2025,6,Miami Grand Prix
+5,87.151,28.808,33.309,24.836,5,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,342.0,2025,6,Miami Grand Prix
+55,86.569,28.707,33.113,24.749,6,SAI,C SAINZ,Carlos Sainz,Williams,341.0,2025,6,Miami Grand Prix
+6,86.987,28.705,33.422,24.86,3,HAD,I HADJAR,Isack Hadjar,Racing Bulls,339.0,2025,6,Miami Grand Prix
+63,86.385,28.51,33.007,24.756,6,RUS,G RUSSELL,George Russell,Mercedes,0.0,2025,6,Miami Grand Prix
+7,87.186,28.643,33.52,25.005,5,DOO,J DOOHAN,Jack Doohan,Alpine,337.0,2025,6,Miami Grand Prix
+81,86.269,28.413,33.032,24.728,5,PIA,O PIASTRI,Oscar Piastri,McLaren,339.0,2025,6,Miami Grand Prix
+87,87.999,29.116,33.765,25.061,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,338.0,2025,6,Miami Grand Prix
+1,74.704,23.495,25.929,25.231,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,333.0,2025,7,Emilia Romagna Grand Prix
+10,75.505,23.8,26.233,25.315,5,GAS,P GASLY,Pierre Gasly,Alpine,334.0,2025,7,Emilia Romagna Grand Prix
+12,75.772,24.012,26.091,25.592,4,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,327.0,2025,7,Emilia Romagna Grand Prix
+14,75.431,23.87,25.941,25.491,6,ALO,F ALONSO,Fernando Alonso,Aston Martin,331.0,2025,7,Emilia Romagna Grand Prix
+16,75.604,23.941,26.183,25.389,4,LEC,C LECLERC,Charles Leclerc,Ferrari,334.0,2025,7,Emilia Romagna Grand Prix
+18,75.497,23.814,26.153,25.428,7,STR,L STROLL,Lance Stroll,Aston Martin,332.0,2025,7,Emilia Romagna Grand Prix
+23,75.473,23.738,26.159,25.503,6,ALB,A ALBON,Alexander Albon,Williams,329.0,2025,7,Emilia Romagna Grand Prix
+27,76.518,24.132,26.366,25.743,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,328.0,2025,7,Emilia Romagna Grand Prix
+30,76.379,24.297,26.369,25.713,1,LAW,L LAWSON,Liam Lawson,Racing Bulls,329.0,2025,7,Emilia Romagna Grand Prix
+31,76.613,24.341,26.54,25.732,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,327.0,2025,7,Emilia Romagna Grand Prix
+4,74.962,23.819,25.901,25.134,6,NOR,L NORRIS,Lando Norris,McLaren,329.0,2025,7,Emilia Romagna Grand Prix
+43,76.256,24.16,26.391,25.705,1,COL,F COLAPINTO,Franco Colapinto,Alpine,331.0,2025,7,Emilia Romagna Grand Prix
+44,75.765,24.039,26.188,25.445,4,HAM,L HAMILTON,Lewis Hamilton,Ferrari,329.0,2025,7,Emilia Romagna Grand Prix
+5,76.26,24.002,26.389,25.689,5,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,328.0,2025,7,Emilia Romagna Grand Prix
+55,75.198,23.663,26.15,25.385,7,SAI,C SAINZ,Carlos Sainz,Williams,330.0,2025,7,Emilia Romagna Grand Prix
+6,75.51,24.003,26.055,25.405,4,HAD,I HADJAR,Isack Hadjar,Racing Bulls,330.0,2025,7,Emilia Romagna Grand Prix
+63,74.807,23.674,25.815,25.201,5,RUS,G RUSSELL,George Russell,Mercedes,330.0,2025,7,Emilia Romagna Grand Prix
+81,74.67,23.677,25.747,25.226,5,PIA,O PIASTRI,Oscar Piastri,McLaren,327.0,2025,7,Emilia Romagna Grand Prix
+87,76.077,24.154,26.262,25.661,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,329.0,2025,7,Emilia Romagna Grand Prix
+1,70.669,18.268,33.601,18.609,7,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,291.0,2025,8,Monaco Grand Prix
+10,71.994,18.632,34.214,19.03,3,GAS,P GASLY,Pierre Gasly,Alpine,288.0,2025,8,Monaco Grand Prix
+12,71.88,18.731,34.015,19.097,3,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,289.0,2025,8,Monaco Grand Prix
+14,70.924,18.515,33.737,18.672,8,ALO,F ALONSO,Fernando Alonso,Aston Martin,291.0,2025,8,Monaco Grand Prix
+16,70.063,18.29,33.18,18.593,9,LEC,C LECLERC,Charles Leclerc,Ferrari,291.0,2025,8,Monaco Grand Prix
+18,72.563,18.898,34.263,19.143,3,STR,L STROLL,Lance Stroll,Aston Martin,291.0,2025,8,Monaco Grand Prix
+22,71.415,18.731,33.801,18.883,6,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,288.0,2025,8,Monaco Grand Prix
+23,70.732,18.369,33.616,18.689,9,ALB,A ALBON,Alexander Albon,Williams,292.0,2025,8,Monaco Grand Prix
+27,71.596,18.755,34.038,18.803,8,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,289.0,2025,8,Monaco Grand Prix
+30,71.129,18.489,33.838,18.772,9,LAW,L LAWSON,Liam Lawson,Racing Bulls,288.0,2025,8,Monaco Grand Prix
+31,70.942,18.485,33.664,18.744,9,OCO,E OCON,Esteban Ocon,Haas F1 Team,292.0,2025,8,Monaco Grand Prix
+4,69.954,18.216,33.254,18.469,10,NOR,L NORRIS,Lando Norris,McLaren,291.0,2025,8,Monaco Grand Prix
+43,72.597,18.756,34.429,19.188,4,COL,F COLAPINTO,Franco Colapinto,Alpine,288.0,2025,8,Monaco Grand Prix
+44,70.382,18.368,33.385,18.629,10,HAM,L HAMILTON,Lewis Hamilton,Ferrari,291.0,2025,8,Monaco Grand Prix
+5,71.902,18.786,34.067,19.049,4,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,289.0,2025,8,Monaco Grand Prix
+55,71.362,18.523,33.89,18.875,7,SAI,C SAINZ,Carlos Sainz,Williams,292.0,2025,8,Monaco Grand Prix
+6,70.923,18.388,33.77,18.757,9,HAD,I HADJAR,Isack Hadjar,Racing Bulls,288.0,2025,8,Monaco Grand Prix
+63,71.507,18.555,34.046,18.883,3,RUS,G RUSSELL,George Russell,Mercedes,290.0,2025,8,Monaco Grand Prix
+81,70.129,18.17,33.301,18.526,10,PIA,O PIASTRI,Oscar Piastri,McLaren,289.0,2025,8,Monaco Grand Prix
+87,71.979,18.595,34.062,19.149,4,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,290.0,2025,8,Monaco Grand Prix
+1,71.848,21.454,28.704,21.68,4,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,327.0,2025,9,Spanish Grand Prix
+10,72.199,21.594,28.747,21.858,6,GAS,P GASLY,Pierre Gasly,Alpine,327.0,2025,9,Spanish Grand Prix
+12,72.111,21.524,28.74,21.847,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,329.0,2025,9,Spanish Grand Prix
+14,72.284,21.591,28.879,21.772,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,328.0,2025,9,Spanish Grand Prix
+16,72.131,21.458,28.729,21.944,3,LEC,C LECLERC,Charles Leclerc,Ferrari,329.0,2025,9,Spanish Grand Prix
+18,73.038,21.604,29.185,22.125,5,STR,L STROLL,Lance Stroll,Aston Martin,329.0,2025,9,Spanish Grand Prix
+22,73.385,21.804,29.379,22.202,2,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,324.0,2025,9,Spanish Grand Prix
+23,72.641,21.465,29.111,22.065,4,ALB,A ALBON,Alexander Albon,Williams,329.0,2025,9,Spanish Grand Prix
+27,73.19,21.713,29.182,22.082,2,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,330.0,2025,9,Spanish Grand Prix
+30,72.763,21.693,29.083,21.987,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,326.0,2025,9,Spanish Grand Prix
+31,73.201,21.68,29.261,22.211,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,327.0,2025,9,Spanish Grand Prix
+4,71.755,21.27,28.646,21.742,5,NOR,L NORRIS,Lando Norris,McLaren,328.0,2025,9,Spanish Grand Prix
+43,73.334,21.768,29.361,22.205,2,COL,F COLAPINTO,Franco Colapinto,Alpine,328.0,2025,9,Spanish Grand Prix
+44,72.045,21.476,28.7,21.798,5,HAM,L HAMILTON,Lewis Hamilton,Ferrari,329.0,2025,9,Spanish Grand Prix
+5,72.756,21.556,29.102,22.098,4,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,330.0,2025,9,Spanish Grand Prix
+55,73.203,21.571,29.37,22.262,2,SAI,C SAINZ,Carlos Sainz,Williams,329.0,2025,9,Spanish Grand Prix
+6,72.252,21.564,28.822,21.866,5,HAD,I HADJAR,Isack Hadjar,Racing Bulls,326.0,2025,9,Spanish Grand Prix
+63,71.848,21.376,28.719,21.716,4,RUS,G RUSSELL,George Russell,Mercedes,331.0,2025,9,Spanish Grand Prix
+81,71.546,21.259,28.58,21.707,4,PIA,O PIASTRI,Oscar Piastri,McLaren,330.0,2025,9,Spanish Grand Prix
+87,73.074,21.666,29.236,22.133,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,327.0,2025,9,Spanish Grand Prix
+1,71.059,19.718,22.4,28.92,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,338.0,2025,10,Canadian Grand Prix
+10,72.667,20.045,22.959,29.357,4,GAS,P GASLY,Pierre Gasly,Alpine,333.0,2025,10,Canadian Grand Prix
+12,71.391,19.877,22.491,28.842,7,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,336.0,2025,10,Canadian Grand Prix
+14,71.586,19.893,22.596,29.062,8,ALO,F ALONSO,Fernando Alonso,Aston Martin,337.0,2025,10,Canadian Grand Prix
+16,71.626,20.017,22.607,28.923,8,LEC,C LECLERC,Charles Leclerc,Ferrari,337.0,2025,10,Canadian Grand Prix
+18,72.517,20.186,22.891,29.326,3,STR,L STROLL,Lance Stroll,Aston Martin,337.0,2025,10,Canadian Grand Prix
+22,72.102,20.139,22.714,29.249,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,340.0,2025,10,Canadian Grand Prix
+23,71.892,19.889,22.63,29.085,8,ALB,A ALBON,Alexander Albon,Williams,334.0,2025,10,Canadian Grand Prix
+27,72.183,20.241,22.771,29.133,4,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,332.0,2025,10,Canadian Grand Prix
+30,72.525,20.119,23.004,29.337,3,LAW,L LAWSON,Liam Lawson,Racing Bulls,333.0,2025,10,Canadian Grand Prix
+31,72.378,20.246,22.906,29.226,6,OCO,E OCON,Esteban Ocon,Haas F1 Team,332.0,2025,10,Canadian Grand Prix
+4,71.599,19.79,22.606,28.886,8,NOR,L NORRIS,Lando Norris,McLaren,336.0,2025,10,Canadian Grand Prix
+43,72.142,20.145,22.645,29.294,6,COL,F COLAPINTO,Franco Colapinto,Alpine,333.0,2025,10,Canadian Grand Prix
+44,71.526,19.995,22.537,28.987,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,337.0,2025,10,Canadian Grand Prix
+5,72.385,20.332,22.886,29.167,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,335.0,2025,10,Canadian Grand Prix
+55,72.398,20.27,22.935,29.193,3,SAI,C SAINZ,Carlos Sainz,Williams,333.0,2025,10,Canadian Grand Prix
+6,71.867,20.043,22.789,29.035,7,HAD,I HADJAR,Isack Hadjar,Racing Bulls,334.0,2025,10,Canadian Grand Prix
+63,70.899,19.781,22.281,28.837,7,RUS,G RUSSELL,George Russell,Mercedes,333.0,2025,10,Canadian Grand Prix
+81,71.12,19.888,22.48,28.715,7,PIA,O PIASTRI,Oscar Piastri,McLaren,334.0,2025,10,Canadian Grand Prix
+87,72.306,20.089,22.679,29.337,4,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,332.0,2025,10,Canadian Grand Prix
+1,64.836,16.37,28.689,19.496,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,325.0,2025,11,Austrian Grand Prix
+10,64.846,16.461,28.813,19.572,6,GAS,P GASLY,Pierre Gasly,Alpine,323.0,2025,11,Austrian Grand Prix
+12,65.052,16.319,29.115,19.553,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,326.0,2025,11,Austrian Grand Prix
+14,65.128,16.494,28.957,19.596,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,326.0,2025,11,Austrian Grand Prix
+16,64.492,16.326,28.725,19.358,7,LEC,C LECLERC,Charles Leclerc,Ferrari,327.0,2025,11,Austrian Grand Prix
+18,65.329,16.508,29.036,19.785,3,STR,L STROLL,Lance Stroll,Aston Martin,324.0,2025,11,Austrian Grand Prix
+22,65.369,16.527,29.027,19.768,2,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,326.0,2025,11,Austrian Grand Prix
+23,65.143,16.395,28.779,19.735,5,ALB,A ALBON,Alexander Albon,Williams,323.0,2025,11,Austrian Grand Prix
+27,65.606,16.479,29.067,19.841,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,324.0,2025,11,Austrian Grand Prix
+30,64.926,16.493,28.839,19.503,5,LAW,L LAWSON,Liam Lawson,Racing Bulls,323.0,2025,11,Austrian Grand Prix
+31,65.364,16.588,29.012,19.739,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,323.0,2025,11,Austrian Grand Prix
+4,63.971,16.285,28.436,19.25,6,NOR,L NORRIS,Lando Norris,McLaren,328.0,2025,11,Austrian Grand Prix
+43,65.278,16.482,28.974,19.678,5,COL,F COLAPINTO,Franco Colapinto,Alpine,323.0,2025,11,Austrian Grand Prix
+44,64.582,16.366,28.703,19.442,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,327.0,2025,11,Austrian Grand Prix
+5,64.846,16.492,28.868,19.486,7,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,325.0,2025,11,Austrian Grand Prix
+55,65.582,16.464,29.13,19.905,4,SAI,C SAINZ,Carlos Sainz,Williams,323.0,2025,11,Austrian Grand Prix
+6,65.063,16.556,28.822,19.63,4,HAD,I HADJAR,Isack Hadjar,Racing Bulls,325.0,2025,11,Austrian Grand Prix
+63,64.763,16.31,28.979,19.444,6,RUS,G RUSSELL,George Russell,Mercedes,325.0,2025,11,Austrian Grand Prix
+81,64.554,16.309,28.694,19.293,5,PIA,O PIASTRI,Oscar Piastri,McLaren,328.0,2025,11,Austrian Grand Prix
+87,65.218,16.544,28.878,19.641,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,322.0,2025,11,Austrian Grand Prix
+1,84.892,27.493,33.973,23.327,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,329.0,2025,12,British Grand Prix
+10,85.711,27.735,34.464,23.401,7,GAS,P GASLY,Pierre Gasly,Alpine,326.0,2025,12,British Grand Prix
+12,85.374,27.658,34.279,23.437,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,324.0,2025,12,British Grand Prix
+14,85.593,27.631,34.318,23.488,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,324.0,2025,12,British Grand Prix
+16,85.121,27.617,34.036,23.327,6,LEC,C LECLERC,Charles Leclerc,Ferrari,325.0,2025,12,British Grand Prix
+18,86.504,27.904,34.823,23.724,3,STR,L STROLL,Lance Stroll,Aston Martin,326.0,2025,12,British Grand Prix
+22,85.826,27.846,34.342,23.62,4,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,328.0,2025,12,British Grand Prix
+23,85.889,27.748,34.456,23.583,4,ALB,A ALBON,Alexander Albon,Williams,323.0,2025,12,British Grand Prix
+27,86.574,28.176,34.82,23.578,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,323.0,2025,12,British Grand Prix
+30,86.44,27.997,34.663,23.668,2,LAW,L LAWSON,Liam Lawson,Racing Bulls,321.0,2025,12,British Grand Prix
+31,85.95,27.791,34.401,23.651,4,OCO,E OCON,Esteban Ocon,Haas F1 Team,323.0,2025,12,British Grand Prix
+4,85.01,27.659,34.027,23.299,6,NOR,L NORRIS,Lando Norris,McLaren,322.0,2025,12,British Grand Prix
+43,87.06,28.281,35.024,23.755,1,COL,F COLAPINTO,Franco Colapinto,Alpine,327.0,2025,12,British Grand Prix
+44,85.084,27.5,34.111,23.289,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,326.0,2025,12,British Grand Prix
+5,86.446,27.991,34.778,23.677,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,322.0,2025,12,British Grand Prix
+55,85.746,27.583,34.449,23.604,4,SAI,C SAINZ,Carlos Sainz,Williams,326.0,2025,12,British Grand Prix
+6,85.864,27.836,34.43,23.5,4,HAD,I HADJAR,Isack Hadjar,Racing Bulls,323.0,2025,12,British Grand Prix
+63,85.029,27.644,34.163,23.222,5,RUS,G RUSSELL,George Russell,Mercedes,324.0,2025,12,British Grand Prix
+81,84.995,27.61,34.113,23.267,6,PIA,O PIASTRI,Oscar Piastri,McLaren,321.0,2025,12,British Grand Prix
+87,85.471,27.621,34.297,23.451,6,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,321.0,2025,12,British Grand Prix
+1,100.903,30.055,42.785,27.926,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,338.0,2025,13,Belgian Grand Prix
+10,101.633,29.921,43.619,27.933,4,GAS,P GASLY,Pierre Gasly,Alpine,342.0,2025,13,Belgian Grand Prix
+12,102.139,30.056,44.2,27.883,2,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,341.0,2025,13,Belgian Grand Prix
+14,102.385,30.185,43.969,28.193,2,ALO,F ALONSO,Fernando Alonso,Aston Martin,340.0,2025,13,Belgian Grand Prix
+16,100.9,29.819,43.049,27.947,4,LEC,C LECLERC,Charles Leclerc,Ferrari,345.0,2025,13,Belgian Grand Prix
+18,102.502,30.222,44.048,28.232,2,STR,L STROLL,Lance Stroll,Aston Martin,341.0,2025,13,Belgian Grand Prix
+22,101.245,30.019,43.081,28.077,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,343.0,2025,13,Belgian Grand Prix
+23,101.201,29.858,43.226,28.009,6,ALB,A ALBON,Alexander Albon,Williams,341.0,2025,13,Belgian Grand Prix
+27,101.707,30.072,43.328,28.136,4,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,342.0,2025,13,Belgian Grand Prix
+30,101.297,29.97,43.291,27.978,6,LAW,L LAWSON,Liam Lawson,Racing Bulls,341.0,2025,13,Belgian Grand Prix
+31,101.525,29.828,43.749,27.942,4,OCO,E OCON,Esteban Ocon,Haas F1 Team,345.0,2025,13,Belgian Grand Prix
+4,100.562,30.005,42.532,27.879,6,NOR,L NORRIS,Lando Norris,McLaren,341.0,2025,13,Belgian Grand Prix
+43,102.022,30.007,44.049,27.966,2,COL,F COLAPINTO,Franco Colapinto,Alpine,344.0,2025,13,Belgian Grand Prix
+44,101.664,29.974,43.641,27.977,2,HAM,L HAMILTON,Lewis Hamilton,Ferrari,343.0,2025,13,Belgian Grand Prix
+5,101.336,30.051,43.267,27.986,6,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,343.0,2025,13,Belgian Grand Prix
+55,101.691,30.122,43.462,28.055,3,SAI,C SAINZ,Carlos Sainz,Williams,339.0,2025,13,Belgian Grand Prix
+6,101.281,30.032,43.172,27.991,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,339.0,2025,13,Belgian Grand Prix
+63,101.254,29.761,43.463,27.857,6,RUS,G RUSSELL,George Russell,Mercedes,345.0,2025,13,Belgian Grand Prix
+81,100.626,29.983,42.623,27.869,7,PIA,O PIASTRI,Oscar Piastri,McLaren,339.0,2025,13,Belgian Grand Prix
+87,101.617,30.147,42.879,28.244,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,338.0,2025,13,Belgian Grand Prix
+1,75.547,27.643,26.588,21.296,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,319.0,2025,14,Hungarian Grand Prix
+10,75.966,27.572,26.935,21.459,2,GAS,P GASLY,Pierre Gasly,Alpine,320.0,2025,14,Hungarian Grand Prix
+12,75.693,27.631,26.476,21.316,3,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,321.0,2025,14,Hungarian Grand Prix
+14,75.281,27.523,26.529,21.229,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,322.0,2025,14,Hungarian Grand Prix
+16,75.372,27.485,26.453,21.312,6,LEC,C LECLERC,Charles Leclerc,Ferrari,324.0,2025,14,Hungarian Grand Prix
+18,75.129,27.493,26.416,21.22,6,STR,L STROLL,Lance Stroll,Aston Martin,324.0,2025,14,Hungarian Grand Prix
+22,75.899,27.623,26.734,21.542,2,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,321.0,2025,14,Hungarian Grand Prix
+23,76.223,27.725,26.841,21.657,3,ALB,A ALBON,Alexander Albon,Williams,323.0,2025,14,Hungarian Grand Prix
+27,76.081,27.646,26.853,21.459,2,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,322.0,2025,14,Hungarian Grand Prix
+30,75.63,27.623,26.687,21.32,6,LAW,L LAWSON,Liam Lawson,Racing Bulls,318.0,2025,14,Hungarian Grand Prix
+31,76.023,27.603,26.769,21.651,2,OCO,E OCON,Esteban Ocon,Haas F1 Team,320.0,2025,14,Hungarian Grand Prix
+4,74.89,27.443,26.396,21.051,6,NOR,L NORRIS,Lando Norris,McLaren,319.0,2025,14,Hungarian Grand Prix
+43,75.875,27.567,26.74,21.512,4,COL,F COLAPINTO,Franco Colapinto,Alpine,320.0,2025,14,Hungarian Grand Prix
+44,75.702,27.583,26.698,21.338,4,HAM,L HAMILTON,Lewis Hamilton,Ferrari,321.0,2025,14,Hungarian Grand Prix
+5,75.586,27.59,26.595,21.315,6,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,321.0,2025,14,Hungarian Grand Prix
+55,75.652,27.485,26.704,21.373,5,SAI,C SAINZ,Carlos Sainz,Williams,321.0,2025,14,Hungarian Grand Prix
+6,75.469,27.586,26.56,21.229,5,HAD,I HADJAR,Isack Hadjar,Racing Bulls,319.0,2025,14,Hungarian Grand Prix
+63,75.201,27.496,26.455,21.211,5,RUS,G RUSSELL,George Russell,Mercedes,323.0,2025,14,Hungarian Grand Prix
+81,74.941,27.357,26.374,21.012,6,PIA,O PIASTRI,Oscar Piastri,McLaren,319.0,2025,14,Hungarian Grand Prix
+87,75.694,27.554,26.687,21.321,4,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,321.0,2025,14,Hungarian Grand Prix
+1,68.925,23.599,24.365,20.912,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,333.0,2025,15,Dutch Grand Prix
+10,69.637,24.045,24.54,20.959,5,GAS,P GASLY,Pierre Gasly,Alpine,330.0,2025,15,Dutch Grand Prix
+12,69.493,23.86,24.599,21.034,4,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,329.0,2025,15,Dutch Grand Prix
+14,69.366,23.787,24.514,21.029,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,332.0,2025,15,Dutch Grand Prix
+16,69.304,23.664,24.611,20.941,7,LEC,C LECLERC,Charles Leclerc,Ferrari,330.0,2025,15,Dutch Grand Prix
+22,69.622,23.732,24.737,21.115,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,333.0,2025,15,Dutch Grand Prix
+23,69.652,23.68,24.916,21.037,4,ALB,A ALBON,Alexander Albon,Williams,336.0,2025,15,Dutch Grand Prix
+27,70.195,24.077,24.851,21.235,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,334.0,2025,15,Dutch Grand Prix
+30,69.383,23.74,24.508,21.089,6,LAW,L LAWSON,Liam Lawson,Racing Bulls,330.0,2025,15,Dutch Grand Prix
+31,70.197,24.031,24.848,21.296,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,330.0,2025,15,Dutch Grand Prix
+4,68.674,23.386,24.383,20.845,6,NOR,L NORRIS,Lando Norris,McLaren,329.0,2025,15,Dutch Grand Prix
+43,70.104,24.036,24.749,21.319,3,COL,F COLAPINTO,Franco Colapinto,Alpine,332.0,2025,15,Dutch Grand Prix
+44,69.261,23.735,24.493,21.017,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,333.0,2025,15,Dutch Grand Prix
+5,69.622,23.811,24.804,20.918,4,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,333.0,2025,15,Dutch Grand Prix
+55,69.472,23.693,24.733,21.04,6,SAI,C SAINZ,Carlos Sainz,Williams,334.0,2025,15,Dutch Grand Prix
+6,69.208,23.691,24.565,20.952,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,330.0,2025,15,Dutch Grand Prix
+63,69.255,23.642,24.542,21.002,6,RUS,G RUSSELL,George Russell,Mercedes,329.0,2025,15,Dutch Grand Prix
+81,68.662,23.358,24.431,20.819,6,PIA,O PIASTRI,Oscar Piastri,McLaren,330.0,2025,15,Dutch Grand Prix
+87,70.262,24.156,24.925,21.171,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,327.0,2025,15,Dutch Grand Prix
+1,78.792,26.262,26.483,26.047,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,348.0,2025,16,Italian Grand Prix
+10,80.103,26.628,26.902,26.514,3,GAS,P GASLY,Pierre Gasly,Alpine,347.0,2025,16,Italian Grand Prix
+12,79.2,26.461,26.613,26.095,7,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,349.0,2025,16,Italian Grand Prix
+14,79.362,26.348,26.592,26.363,6,ALO,F ALONSO,Fernando Alonso,Aston Martin,350.0,2025,16,Italian Grand Prix
+16,79.007,26.265,26.582,26.16,6,LEC,C LECLERC,Charles Leclerc,Ferrari,352.0,2025,16,Italian Grand Prix
+18,79.948,26.502,26.849,26.543,3,STR,L STROLL,Lance Stroll,Aston Martin,347.0,2025,16,Italian Grand Prix
+22,79.433,26.42,26.645,26.337,6,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,348.0,2025,16,Italian Grand Prix
+23,79.583,26.442,26.643,26.437,5,ALB,A ALBON,Alexander Albon,Williams,347.0,2025,16,Italian Grand Prix
+27,79.498,26.181,26.816,26.344,5,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,358.0,2025,16,Italian Grand Prix
+30,80.279,26.557,27.05,26.672,1,LAW,L LAWSON,Liam Lawson,Racing Bulls,346.0,2025,16,Italian Grand Prix
+31,79.707,26.432,26.729,26.436,5,OCO,E OCON,Esteban Ocon,Haas F1 Team,348.0,2025,16,Italian Grand Prix
+4,78.869,26.378,26.438,26.053,6,NOR,L NORRIS,Lando Norris,McLaren,347.0,2025,16,Italian Grand Prix
+43,79.992,26.547,26.936,26.429,3,COL,F COLAPINTO,Franco Colapinto,Alpine,347.0,2025,16,Italian Grand Prix
+44,79.124,26.219,26.679,26.219,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,353.0,2025,16,Italian Grand Prix
+5,79.323,26.215,26.671,26.326,7,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,357.0,2025,16,Italian Grand Prix
+55,79.528,26.393,26.637,26.428,6,SAI,C SAINZ,Carlos Sainz,Williams,349.0,2025,16,Italian Grand Prix
+6,79.917,26.331,26.939,26.494,2,HAD,I HADJAR,Isack Hadjar,Racing Bulls,350.0,2025,16,Italian Grand Prix
+63,79.157,26.449,26.434,26.193,6,RUS,G RUSSELL,George Russell,Mercedes,349.0,2025,16,Italian Grand Prix
+81,78.982,26.446,26.34,26.066,6,PIA,O PIASTRI,Oscar Piastri,McLaren,347.0,2025,16,Italian Grand Prix
+87,79.446,26.376,26.736,26.334,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,350.0,2025,16,Italian Grand Prix
+1,101.117,35.331,40.577,24.937,5,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,343.0,2025,17,Azerbaijan Grand Prix
+10,103.139,36.126,41.775,24.978,2,GAS,P GASLY,Pierre Gasly,Alpine,340.0,2025,17,Azerbaijan Grand Prix
+12,101.464,35.718,40.8,24.898,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,340.0,2025,17,Azerbaijan Grand Prix
+14,101.857,35.825,41.108,24.848,3,ALO,F ALONSO,Fernando Alonso,Aston Martin,342.0,2025,17,Azerbaijan Grand Prix
+16,101.458,35.5,40.785,24.937,4,LEC,C LECLERC,Charles Leclerc,Ferrari,341.0,2025,17,Azerbaijan Grand Prix
+18,102.101,35.944,41.106,24.868,3,STR,L STROLL,Lance Stroll,Aston Martin,348.0,2025,17,Azerbaijan Grand Prix
+22,101.788,35.775,40.837,24.966,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,341.0,2025,17,Azerbaijan Grand Prix
+23,103.778,36.704,41.721,25.353,1,ALB,A ALBON,Alexander Albon,Williams,339.0,2025,17,Azerbaijan Grand Prix
+27,102.916,36.348,41.592,24.976,2,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,336.0,2025,17,Azerbaijan Grand Prix
+30,101.537,35.432,40.943,24.835,6,LAW,L LAWSON,Liam Lawson,Racing Bulls,345.0,2025,17,Azerbaijan Grand Prix
+31,103.004,36.311,41.634,25.012,2,OCO,E OCON,Esteban Ocon,Haas F1 Team,339.0,2025,17,Azerbaijan Grand Prix
+4,101.322,35.478,40.836,24.862,4,NOR,L NORRIS,Lando Norris,McLaren,340.0,2025,17,Azerbaijan Grand Prix
+43,102.779,35.907,41.759,24.947,2,COL,F COLAPINTO,Franco Colapinto,Alpine,341.0,2025,17,Azerbaijan Grand Prix
+44,101.821,35.572,41.265,24.984,4,HAM,L HAMILTON,Lewis Hamilton,Ferrari,343.0,2025,17,Azerbaijan Grand Prix
+5,102.277,35.854,41.07,25.111,4,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,338.0,2025,17,Azerbaijan Grand Prix
+55,101.595,35.337,40.574,25.017,5,SAI,C SAINZ,Carlos Sainz,Williams,338.0,2025,17,Azerbaijan Grand Prix
+6,101.647,35.556,40.956,24.942,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,338.0,2025,17,Azerbaijan Grand Prix
+63,101.455,35.582,40.827,24.746,5,RUS,G RUSSELL,George Russell,Mercedes,341.0,2025,17,Azerbaijan Grand Prix
+81,101.414,35.257,40.825,25.134,3,PIA,O PIASTRI,Oscar Piastri,McLaren,336.0,2025,17,Azerbaijan Grand Prix
+87,102.666,36.461,41.225,24.935,2,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,339.0,2025,17,Azerbaijan Grand Prix
+1,89.34,26.512,37.419,25.22,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,315.0,2025,18,Singapore Grand Prix
+10,91.261,27.022,38.521,25.718,1,GAS,P GASLY,Pierre Gasly,Alpine,316.0,2025,18,Singapore Grand Prix
+12,89.537,26.482,37.413,25.442,5,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,319.0,2025,18,Singapore Grand Prix
+14,89.955,26.737,37.812,25.345,6,ALO,F ALONSO,Fernando Alonso,Aston Martin,316.0,2025,18,Singapore Grand Prix
+16,89.784,26.667,37.642,25.333,6,LEC,C LECLERC,Charles Leclerc,Ferrari,319.0,2025,18,Singapore Grand Prix
+18,90.949,26.911,38.102,25.699,3,STR,L STROLL,Lance Stroll,Aston Martin,317.0,2025,18,Singapore Grand Prix
+22,90.353,26.841,37.935,25.468,4,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,317.0,2025,18,Singapore Grand Prix
+23,90.202,26.726,38.02,25.456,4,ALB,A ALBON,Alexander Albon,Williams,315.0,2025,18,Singapore Grand Prix
+27,90.141,26.721,37.864,25.533,5,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,314.0,2025,18,Singapore Grand Prix
+30,90.32,26.852,37.903,25.553,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,313.0,2025,18,Singapore Grand Prix
+31,90.989,26.931,38.352,25.593,2,OCO,E OCON,Esteban Ocon,Haas F1 Team,316.0,2025,18,Singapore Grand Prix
+4,89.586,26.641,37.451,25.332,6,NOR,L NORRIS,Lando Norris,McLaren,314.0,2025,18,Singapore Grand Prix
+43,90.982,26.776,38.248,25.885,3,COL,F COLAPINTO,Franco Colapinto,Alpine,317.0,2025,18,Singapore Grand Prix
+44,89.688,26.716,37.592,25.285,6,HAM,L HAMILTON,Lewis Hamilton,Ferrari,320.0,2025,18,Singapore Grand Prix
+5,90.82,26.952,38.25,25.618,2,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,315.0,2025,18,Singapore Grand Prix
+55,90.235,26.806,37.945,25.477,4,SAI,C SAINZ,Carlos Sainz,Williams,314.0,2025,18,Singapore Grand Prix
+6,89.846,26.694,37.71,25.412,5,HAD,I HADJAR,Isack Hadjar,Racing Bulls,315.0,2025,18,Singapore Grand Prix
+63,89.158,26.415,37.329,25.284,6,RUS,G RUSSELL,George Russell,Mercedes,318.0,2025,18,Singapore Grand Prix
+81,89.524,26.556,37.609,25.359,6,PIA,O PIASTRI,Oscar Piastri,McLaren,315.0,2025,18,Singapore Grand Prix
+87,89.868,26.703,37.824,25.341,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,316.0,2025,18,Singapore Grand Prix
+1,92.51,24.914,37.388,30.186,4,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,327.0,2025,19,United States Grand Prix
+10,93.599,25.144,37.654,30.723,4,GAS,P GASLY,Pierre Gasly,Alpine,327.0,2025,19,United States Grand Prix
+12,93.044,25.082,37.324,30.293,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,330.0,2025,19,United States Grand Prix
+14,93.16,25.08,37.477,30.31,4,ALO,F ALONSO,Fernando Alonso,Aston Martin,329.0,2025,19,United States Grand Prix
+16,92.807,25.042,37.511,30.253,5,LEC,C LECLERC,Charles Leclerc,Ferrari,327.0,2025,19,United States Grand Prix
+18,93.878,25.463,37.763,30.652,2,STR,L STROLL,Lance Stroll,Aston Martin,323.0,2025,19,United States Grand Prix
+22,93.466,25.148,37.604,30.611,4,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,327.0,2025,19,United States Grand Prix
+23,93.67,25.006,37.895,30.769,2,ALB,A ALBON,Alexander Albon,Williams,326.0,2025,19,United States Grand Prix
+27,93.334,25.181,37.452,30.574,4,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,327.0,2025,19,United States Grand Prix
+30,93.36,25.207,37.629,30.43,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,327.0,2025,19,United States Grand Prix
+31,94.136,25.431,37.931,30.774,2,OCO,E OCON,Esteban Ocon,Haas F1 Team,324.0,2025,19,United States Grand Prix
+4,92.801,24.915,37.356,30.157,6,NOR,L NORRIS,Lando Norris,McLaren,326.0,2025,19,United States Grand Prix
+43,94.039,25.323,37.811,30.842,3,COL,F COLAPINTO,Franco Colapinto,Alpine,325.0,2025,19,United States Grand Prix
+44,92.912,24.949,37.403,30.233,5,HAM,L HAMILTON,Lewis Hamilton,Ferrari,326.0,2025,19,United States Grand Prix
+5,94.125,25.326,38.036,30.763,2,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,324.0,2025,19,United States Grand Prix
+55,93.124,24.973,37.49,30.466,5,SAI,C SAINZ,Carlos Sainz,Williams,328.0,2025,19,United States Grand Prix
+63,92.826,24.964,37.438,30.252,6,RUS,G RUSSELL,George Russell,Mercedes,327.0,2025,19,United States Grand Prix
+81,93.084,25.168,37.583,30.318,5,PIA,O PIASTRI,Oscar Piastri,McLaren,325.0,2025,19,United States Grand Prix
+87,93.139,25.156,37.578,30.346,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,326.0,2025,19,United States Grand Prix
+1,76.07,27.049,29.328,19.693,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,351.0,2025,20,Mexico City Grand Prix
+10,77.546,27.461,29.897,20.044,3,GAS,P GASLY,Pierre Gasly,Alpine,351.0,2025,20,Mexico City Grand Prix
+12,76.118,27.112,29.219,19.787,6,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,352.0,2025,20,Mexico City Grand Prix
+14,77.103,27.444,29.729,19.897,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,352.0,2025,20,Mexico City Grand Prix
+16,75.848,26.945,29.185,19.69,6,LEC,C LECLERC,Charles Leclerc,Ferrari,352.0,2025,20,Mexico City Grand Prix
+18,77.606,27.648,29.865,20.061,3,STR,L STROLL,Lance Stroll,Aston Martin,350.0,2025,20,Mexico City Grand Prix
+22,76.816,27.331,29.531,19.866,4,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,349.0,2025,20,Mexico City Grand Prix
+23,77.49,27.276,30.026,20.108,3,ALB,A ALBON,Alexander Albon,Williams,351.0,2025,20,Mexico City Grand Prix
+27,77.016,27.43,29.668,19.841,5,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,347.0,2025,20,Mexico City Grand Prix
+30,76.961,27.541,29.564,19.856,3,LAW,L LAWSON,Liam Lawson,Racing Bulls,343.0,2025,20,Mexico City Grand Prix
+31,76.837,27.277,29.668,19.828,5,OCO,E OCON,Esteban Ocon,Haas F1 Team,347.0,2025,20,Mexico City Grand Prix
+4,75.586,26.916,29.114,19.556,7,NOR,L NORRIS,Lando Norris,McLaren,351.0,2025,20,Mexico City Grand Prix
+43,77.67,27.495,30.015,20.16,2,COL,F COLAPINTO,Franco Colapinto,Alpine,351.0,2025,20,Mexico City Grand Prix
+44,75.938,27.041,29.156,19.693,7,HAM,L HAMILTON,Lewis Hamilton,Ferrari,353.0,2025,20,Mexico City Grand Prix
+5,77.412,27.511,29.925,19.898,3,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,348.0,2025,20,Mexico City Grand Prix
+55,76.172,27.013,29.42,19.739,6,SAI,C SAINZ,Carlos Sainz,Williams,352.0,2025,20,Mexico City Grand Prix
+6,76.252,27.198,29.353,19.701,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,346.0,2025,20,Mexico City Grand Prix
+63,76.034,27.022,29.299,19.713,6,RUS,G RUSSELL,George Russell,Mercedes,352.0,2025,20,Mexico City Grand Prix
+81,76.174,27.117,29.351,19.705,6,PIA,O PIASTRI,Oscar Piastri,McLaren,350.0,2025,20,Mexico City Grand Prix
+87,76.46,27.267,29.552,19.641,7,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,348.0,2025,20,Mexico City Grand Prix
+1,70.403,18.178,36.036,16.099,3,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,338.0,2025,21,São Paulo Grand Prix
+10,69.857,18.075,35.643,15.974,7,GAS,P GASLY,Pierre Gasly,Alpine,337.0,2025,21,São Paulo Grand Prix
+12,69.685,18.035,35.582,16.038,4,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,338.0,2025,21,São Paulo Grand Prix
+14,70.001,18.138,35.722,16.016,5,ALO,F ALONSO,Fernando Alonso,Aston Martin,335.0,2025,21,São Paulo Grand Prix
+16,69.801,18.012,35.68,16.034,7,LEC,C LECLERC,Charles Leclerc,Ferrari,340.0,2025,21,São Paulo Grand Prix
+18,70.041,18.137,35.791,16.113,5,STR,L STROLL,Lance Stroll,Aston Martin,335.0,2025,21,São Paulo Grand Prix
+22,70.711,18.315,36.256,16.12,3,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,338.0,2025,21,São Paulo Grand Prix
+23,70.053,18.006,35.891,16.09,5,ALB,A ALBON,Alexander Albon,Williams,338.0,2025,21,São Paulo Grand Prix
+27,69.985,18.183,35.68,15.954,7,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,338.0,2025,21,São Paulo Grand Prix
+30,69.95,18.164,35.677,15.984,7,LAW,L LAWSON,Liam Lawson,Racing Bulls,337.0,2025,21,São Paulo Grand Prix
+31,70.438,18.382,35.915,16.141,3,OCO,E OCON,Esteban Ocon,Haas F1 Team,332.0,2025,21,São Paulo Grand Prix
+4,69.511,17.998,35.534,15.941,7,NOR,L NORRIS,Lando Norris,McLaren,341.0,2025,21,São Paulo Grand Prix
+43,70.632,18.163,36.261,16.147,3,COL,F COLAPINTO,Franco Colapinto,Alpine,339.0,2025,21,São Paulo Grand Prix
+44,70.016,18.121,35.714,16.071,4,HAM,L HAMILTON,Lewis Hamilton,Ferrari,340.0,2025,21,São Paulo Grand Prix
+55,70.184,18.146,35.866,16.086,4,SAI,C SAINZ,Carlos Sainz,Williams,334.0,2025,21,São Paulo Grand Prix
+6,69.931,18.086,35.69,15.981,7,HAD,I HADJAR,Isack Hadjar,Racing Bulls,338.0,2025,21,São Paulo Grand Prix
+63,69.88,18.081,35.748,16.033,5,RUS,G RUSSELL,George Russell,Mercedes,338.0,2025,21,São Paulo Grand Prix
+81,69.835,18.127,35.596,16.03,5,PIA,O PIASTRI,Oscar Piastri,McLaren,338.0,2025,21,São Paulo Grand Prix
+87,69.755,18.062,35.641,15.994,5,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,334.0,2025,21,São Paulo Grand Prix
+1,108.257,30.863,37.391,40.003,11,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,331.0,2025,22,Las Vegas Grand Prix
+10,111.54,31.827,38.721,40.693,7,GAS,P GASLY,Pierre Gasly,Alpine,333.0,2025,22,Las Vegas Grand Prix
+14,109.466,31.379,37.563,40.524,7,ALO,F ALONSO,Fernando Alonso,Aston Martin,330.0,2025,22,Las Vegas Grand Prix
+16,109.872,30.789,38.302,40.781,7,LEC,C LECLERC,Charles Leclerc,Ferrari,328.0,2025,22,Las Vegas Grand Prix
+18,112.85,32.3,38.944,40.853,5,STR,L STROLL,Lance Stroll,Aston Martin,331.0,2025,22,Las Vegas Grand Prix
+27,112.781,32.224,38.502,41.3,6,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,331.0,2025,22,Las Vegas Grand Prix
+30,109.062,31.385,37.593,39.968,9,LAW,L LAWSON,Liam Lawson,Racing Bulls,336.0,2025,22,Las Vegas Grand Prix
+31,112.987,32.601,39.033,41.076,6,OCO,E OCON,Esteban Ocon,Haas F1 Team,335.0,2025,22,Las Vegas Grand Prix
+4,107.934,30.43,36.842,40.384,11,NOR,L NORRIS,Lando Norris,McLaren,337.0,2025,22,Las Vegas Grand Prix
+43,113.683,32.639,39.106,41.938,3,COL,F COLAPINTO,Franco Colapinto,Alpine,331.0,2025,22,Las Vegas Grand Prix
+55,108.296,30.894,37.608,39.794,9,SAI,C SAINZ,Carlos Sainz,Williams,334.0,2025,22,Las Vegas Grand Prix
+6,109.554,31.151,38.325,40.078,8,HAD,I HADJAR,Isack Hadjar,Racing Bulls,338.0,2025,22,Las Vegas Grand Prix
+63,108.803,30.787,38.216,39.8,10,RUS,G RUSSELL,George Russell,Mercedes,336.0,2025,22,Las Vegas Grand Prix
+81,108.961,30.975,37.719,40.097,9,PIA,O PIASTRI,Oscar Piastri,McLaren,332.0,2025,22,Las Vegas Grand Prix
+87,113.094,32.373,39.12,41.405,4,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,333.0,2025,22,Las Vegas Grand Prix
+1,79.651,29.16,27.064,23.427,7,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,330.0,2025,23,Qatar Grand Prix
+10,80.324,29.487,27.194,23.585,7,GAS,P GASLY,Pierre Gasly,Alpine,329.0,2025,23,Qatar Grand Prix
+12,79.846,29.279,26.954,23.561,7,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,331.0,2025,23,Qatar Grand Prix
+14,80.219,29.358,27.17,23.549,7,ALO,F ALONSO,Fernando Alonso,Aston Martin,329.0,2025,23,Qatar Grand Prix
+16,80.343,29.52,27.318,23.505,7,LEC,C LECLERC,Charles Leclerc,Ferrari,326.0,2025,23,Qatar Grand Prix
+18,81.058,29.782,27.496,23.771,4,STR,L STROLL,Lance Stroll,Aston Martin,326.0,2025,23,Qatar Grand Prix
+22,80.761,29.66,27.464,23.637,3,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,328.0,2025,23,Qatar Grand Prix
+23,80.629,29.613,27.209,23.632,6,ALB,A ALBON,Alexander Albon,Williams,327.0,2025,23,Qatar Grand Prix
+27,80.353,29.545,27.14,23.629,7,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,328.0,2025,23,Qatar Grand Prix
+30,80.433,29.602,27.235,23.589,5,LAW,L LAWSON,Liam Lawson,Racing Bulls,326.0,2025,23,Qatar Grand Prix
+31,80.864,29.717,27.419,23.728,4,OCO,E OCON,Esteban Ocon,Haas F1 Team,326.0,2025,23,Qatar Grand Prix
+4,79.495,29.212,26.978,23.305,5,NOR,L NORRIS,Lando Norris,McLaren,326.0,2025,23,Qatar Grand Prix
+43,81.137,29.965,27.492,23.68,3,COL,F COLAPINTO,Franco Colapinto,Alpine,328.0,2025,23,Qatar Grand Prix
+44,80.907,29.774,27.27,23.744,3,HAM,L HAMILTON,Lewis Hamilton,Ferrari,325.0,2025,23,Qatar Grand Prix
+5,80.534,29.469,27.354,23.61,7,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,329.0,2025,23,Qatar Grand Prix
+55,80.251,29.546,27.164,23.534,8,SAI,C SAINZ,Carlos Sainz,Williams,328.0,2025,23,Qatar Grand Prix
+6,80.114,29.473,27.125,23.516,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,326.0,2025,23,Qatar Grand Prix
+63,79.662,29.214,26.987,23.429,7,RUS,G RUSSELL,George Russell,Mercedes,330.0,2025,23,Qatar Grand Prix
+81,79.387,29.209,26.919,23.257,6,PIA,O PIASTRI,Oscar Piastri,McLaren,327.0,2025,23,Qatar Grand Prix
+87,80.438,29.517,27.233,23.688,7,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,326.0,2025,23,Qatar Grand Prix
+1,82.207,16.858,35.71,29.639,6,VER,M VERSTAPPEN,Max Verstappen,Red Bull Racing,331.0,2025,24,Abu Dhabi Grand Prix
+10,83.468,17.05,36.078,30.246,3,GAS,P GASLY,Pierre Gasly,Alpine,329.0,2025,24,Abu Dhabi Grand Prix
+12,82.894,16.922,35.946,29.991,4,ANT,K ANTONELLI,Kimi Antonelli,Mercedes,333.0,2025,24,Abu Dhabi Grand Prix
+14,82.861,16.922,35.984,29.864,6,ALO,F ALONSO,Fernando Alonso,Aston Martin,331.0,2025,24,Abu Dhabi Grand Prix
+16,82.73,16.984,35.823,29.906,6,LEC,C LECLERC,Charles Leclerc,Ferrari,333.0,2025,24,Abu Dhabi Grand Prix
+18,83.097,16.955,36.021,30.026,5,STR,L STROLL,Lance Stroll,Aston Martin,330.0,2025,24,Abu Dhabi Grand Prix
+22,83.034,16.989,35.801,30.18,5,TSU,Y TSUNODA,Yuki Tsunoda,Red Bull Racing,333.0,2025,24,Abu Dhabi Grand Prix
+23,83.416,16.982,36.131,30.303,2,ALB,A ALBON,Alexander Albon,Williams,327.0,2025,24,Abu Dhabi Grand Prix
+27,83.45,17.129,36.177,30.077,3,HUL,N HULKENBERG,Nico Hulkenberg,Kick Sauber,331.0,2025,24,Abu Dhabi Grand Prix
+30,83.077,17.013,36.073,29.991,4,LAW,L LAWSON,Liam Lawson,Racing Bulls,330.0,2025,24,Abu Dhabi Grand Prix
+31,82.913,16.991,36.006,29.841,6,OCO,E OCON,Esteban Ocon,Haas F1 Team,330.0,2025,24,Abu Dhabi Grand Prix
+4,82.408,16.908,35.89,29.61,5,NOR,L NORRIS,Lando Norris,McLaren,330.0,2025,24,Abu Dhabi Grand Prix
+43,83.89,17.124,36.288,30.453,3,COL,F COLAPINTO,Franco Colapinto,Alpine,329.0,2025,24,Abu Dhabi Grand Prix
+44,83.394,17.107,36.023,30.071,3,HAM,L HAMILTON,Lewis Hamilton,Ferrari,328.0,2025,24,Abu Dhabi Grand Prix
+5,82.874,17.01,35.968,29.863,7,BOR,G BORTOLETO,Gabriel Bortoleto,Kick Sauber,330.0,2025,24,Abu Dhabi Grand Prix
+55,83.042,16.902,35.92,30.143,4,SAI,C SAINZ,Carlos Sainz,Williams,328.0,2025,24,Abu Dhabi Grand Prix
+6,82.997,17.008,36.034,29.923,6,HAD,I HADJAR,Isack Hadjar,Racing Bulls,330.0,2025,24,Abu Dhabi Grand Prix
+63,82.645,16.918,35.898,29.829,6,RUS,G RUSSELL,George Russell,Mercedes,331.0,2025,24,Abu Dhabi Grand Prix
+81,82.437,16.919,35.93,29.588,5,PIA,O PIASTRI,Oscar Piastri,McLaren,328.0,2025,24,Abu Dhabi Grand Prix
+87,83.041,17.005,36.078,29.934,3,BEA,O BEARMAN,Oliver Bearman,Haas F1 Team,327.0,2025,24,Abu Dhabi Grand Prix
